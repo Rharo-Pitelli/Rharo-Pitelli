@@ -25,7 +25,7 @@
 
 ### 📫 Contacto
 
-[![GitHub](https://img.shields.io/badge/GitHub-Rharo2025-181717?style=flat&logo=github)](https://github.com/Rharo2025)
+[![GitHub](https://img.shields.io/badge/GitHub-Rharo--Pitelli-181717?style=flat&logo=github)](https://github.com/Rharo-Pitelli)
 
 ---
 
