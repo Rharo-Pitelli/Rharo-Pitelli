@@ -1,16 +1,32 @@
-## Hi there 👋
+### Olá, eu sou o Rharo Pitelli! 👋
 
-<!--
-**Rharo-Pitelli/Rharo-Pitelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante na **42 Lisboa** — prestes a começar a Piscine  
+🐍 Certificado em Python pelo Curso em Vídeo (Gustavo Guanabara)  
+🚀 Em transição para desenvolvimento de software  
+📍 Lisboa, Portugal
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📚 Atualmente
+
+- 🏊 A preparar-me para a Piscine da 42 Lisboa
+- 📖 A aprender C e algoritmos
+- 🔨 A construir o meu portfólio
+
+---
+
+### 📫 Contacto
+
+[![GitHub](https://img.shields.io/badge/GitHub-Rharo2025-181717?style=flat&logo=github)](https://github.com/Rharo2025)
+
+---
+
+*"Só vive o propósito quem suporta o processo."*
